@@ -1,0 +1,17 @@
+127.0.0.1 - - [29/Apr/2026:08:51:46 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:51:49 +0530] "GET /ExpressionLang/print.jsp HTTP/1.1" 200 245
+127.0.0.1 - - [29/Apr/2026:08:55:53 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:55:54 +0530] "GET /ExpressionLang/regester.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:56:03 +0530] "GET /ExpressionLang/print.jsp?Username=peter&password=1234567&contact=234567890 HTTP/1.1" 200 259
+127.0.0.1 - - [29/Apr/2026:08:57:45 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:57:46 +0530] "GET /ExpressionLang/regester.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:57:56 +0530] "GET /ExpressionLang/print.jsp?Username=peter&password=234567&contact=234567 HTTP/1.1" 200 279
+127.0.0.1 - - [29/Apr/2026:08:59:07 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:59:08 +0530] "GET /ExpressionLang/regester.jsp HTTP/1.1" 200 456
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:08:59:17 +0530] "GET /ExpressionLang/print.jsp?Username=peter&password=123456789&contact=1234567890 HTTP/1.1" 200 277
+127.0.0.1 - - [29/Apr/2026:09:44:59 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:09:45:02 +0530] "GET /DirectiveTag/home.jsp HTTP/1.1" 500 2661
+127.0.0.1 - - [29/Apr/2026:09:46:08 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:09:46:11 +0530] "GET /DirectiveTag/home.jsp HTTP/1.1" 500 2243
+127.0.0.1 - - [29/Apr/2026:09:47:10 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [29/Apr/2026:09:47:14 +0530] "GET /DirectiveTag/home.jsp HTTP/1.1" 200 597

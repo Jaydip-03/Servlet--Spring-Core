@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BikeCore\src\main\java\com\jsp\BikeCore\Config.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BagCore\src\main\java\com\jsp\BagCore\Bag.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Scope\src\main\java\com\jsp\Config.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\SpringCore4\src\main\java\com\jsp\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\SpringCore3\src\main\java\com\jsp\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Hospital\src\main\java\com\jsp\Hospital\Hospitalll.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Indigo\src\main\java\com\jsp\Indigo\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Books\src\main\java\com\jsp\Books\Config.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Cars\src\main\java\com\jsp\Cars\Car.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BikeCore\src\main\java\com\jsp\biker\Biker.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BikeCore\src\main\java\com\jsp\BikeCore\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BagCore"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\BagCore\src\main\java\com\jsp\BagCore\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\EmployeeCore\src\main\java\com\jsp\EmployeeCore\Driver.java"/>
+			<item value="C:\Users\91808\fightclub\Advance Java\Servlet\Phone\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jsp"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springCorePractice1"/>
+			<item value="headphone"/>
+			<item value="HeadPhone"/>
+			<item value="SpringCore5"/>
+			<item value="Scope"/>
+			<item value="SpringCore4"/>
+			<item value="SpringCore3"/>
+			<item value="VariableLevelDI"/>
+			<item value="Myntra"/>
+			<item value="Netflix"/>
+			<item value="Indigo"/>
+			<item value="Marker"/>
+			<item value="Pets"/>
+			<item value="Books"/>
+			<item value="Cars"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91808\Downloads\springboot\springboot"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,17 @@
+package com.jsp.core;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Laptop {
+	
+	public Laptop() {
+		System.out.println("call laptop no args constructor ");
+	}
+	
+	
+	public void excutuProram() {
+		System.out.println("Program exucutes on laptop : ");
+	}
+
+}

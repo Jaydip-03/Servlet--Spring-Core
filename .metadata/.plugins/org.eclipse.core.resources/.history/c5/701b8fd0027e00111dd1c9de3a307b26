@@ -1,0 +1,5 @@
+package com.jsp.noUnicdefHandle;
+
+public interface Payment {
+
+}

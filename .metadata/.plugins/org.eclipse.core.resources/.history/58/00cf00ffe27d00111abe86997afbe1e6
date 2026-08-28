@@ -1,0 +1,12 @@
+package com.jsp.practice;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Bike {
+	
+	public Bike() {
+		System.out.println("Bike no args comstructor : ");
+	}
+
+}

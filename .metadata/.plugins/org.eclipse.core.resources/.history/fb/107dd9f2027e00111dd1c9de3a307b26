@@ -1,0 +1,38 @@
+package com.jsp.noUnicdefHandle;
+
+import org.springframework.stereotype.Component;
+
+public interface Payment {
+	
+	void payMode();
+
+}
+
+@Component
+class Goolepay implements Payment {
+
+	@Override
+	public void payMode() {
+		
+		System.out.println("Pay by googe pay");
+		
+	}
+	
+}
+
+
+@Component
+class PhonePay implements Payment {
+
+	@Override
+	public void payMode() {
+		
+		System.out.println("Paymnet by phionepay");
+		
+	}
+	
+	
+	
+}
+
+
